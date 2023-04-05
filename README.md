@@ -83,9 +83,9 @@ Task 1.
 <br>    • Line 253: declare new function.
 <br>    • Line 255-299: output nested array with key and value pairs utilizing different functions, also using functions from class.
 
-	<br>Personal suggestions for code refactoring. I would trying to avoid arrays as much as possible, even if they are associative. I personally created class, witch will be like a collection of data/values. It also give me more flexibility in the code. It also can become more readable.
-	<br>I also mentioned about “code structure broken” it may be a git glich, because I view code in browser, but then I transfer it to IDE the structure was correct.
-	<br>About variables names. According to latest PSR standards we are not using sneak case in name variables. There is many places in code where PSR standards are not observed.
+	Personal suggestions for code refactoring. I would trying to avoid arrays as much as possible, even if they are associative. I personally created class, witch will be like a collection of data/values. It also give me more flexibility in the code. It also can become more readable.
+	I also mentioned about “code structure broken” it may be a git glich, because I view code in browser, but then I transfer it to IDE the structure was correct.
+	About variables names. According to latest PSR standards we are not using sneak case in name variables. There is many places in code where PSR standards are not observed.
 
 
 
@@ -101,4 +101,4 @@ Task 1.
 <br>    • Line 49: grammar mistake in variable name.
 <br>    • Line 53-56: the JSX code should be indented properly for better readability.
 
-	<br>I recommended to include try-catch blocks or error handling logic to prevent unexpected behavior.       
+	I recommended to include try-catch blocks or error handling logic to prevent unexpected behavior.       
